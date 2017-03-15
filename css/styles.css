@@ -1,0 +1,25 @@
+.column {
+  float: left;
+  width: 30%;
+  margin-right: 20px;
+  font-style: italic;
+}
+
+.column h2 {
+  color: blue;
+  text-align: center;
+  font-style: normal;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-family: serif;
+}
