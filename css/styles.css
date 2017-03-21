@@ -56,3 +56,11 @@ h2 {
   margin: 10px;
   text-align: justify;
 }
+
+.background-color {
+  background-color: grey;
+}
+
+.text-color {
+  color: white;
+}
