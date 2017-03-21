@@ -64,3 +64,11 @@ h2 {
 .text-color {
   color: white;
 }
+
+.box{
+  border: solid 2px black;
+}
+
+.highlight{
+  color:red;
+}
